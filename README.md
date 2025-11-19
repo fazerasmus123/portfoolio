@@ -49,9 +49,14 @@ Olen motiveeritud ja kiire õppija, kellel on tugev huvi tehnoloogia, arvutisüs
 
 ---
 
-Kontakt
+Kontakt 
+
 Rasmus Annuk
+
 Rakvere Ametikool
+
 IT õpilane 
-telefon +372 58277607
+
+telefon +372 58277607'
+
 E-mail rasmus.annuk@rak.ee
