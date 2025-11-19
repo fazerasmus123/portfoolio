@@ -1,10 +1,10 @@
-# 💼 Minu IT-portfoolio
+# Minu IT-portfoolio
 
 Tere tulemast minu portfooliosse! Olen IT-huviline, kes soovib areneda tehnoloogia valdkonnas, täiendada oma oskusi ja leida võimalusi praktiliste kogemuste saamiseks.
 
 ---
 
-## 👤 Minust
+## Minust
 
 Olen motiveeritud ja kiire õppija, kellel on tugev huvi tehnoloogia, arvutisüsteemide ja probleemide lahendamise vastu. Soovin arendada ennast IT-valdkonnas ning panustada projektidesse, mis pakuvad päris kogemust ja väljakutseid.
 
@@ -38,8 +38,6 @@ Olen motiveeritud ja kiire õppija, kellel on tugev huvi tehnoloogia, arvutisüs
 - Meeskonnatöö  
 - Kiire õppimisvõime  
 
-*(Lisa siia vajadusel oma konkreetsemad tehnilised oskused, nt Python, HTML, Git jne.)*
-
 ---
 
 ## 🎓 Minu eesmärgid
@@ -51,11 +49,9 @@ Olen motiveeritud ja kiire õppija, kellel on tugev huvi tehnoloogia, arvutisüs
 
 ---
 
-## 📞 Kontakt
-
-**E-post:** [sisesta siia]  
-**Asukoht:** [sinu linn]  
-
----
-
-_Aitäh, et külastasid minu portfooliot!_
+Kontakt
+Rasmus Annuk
+Rakvere Ametikool
+IT õpilane 
+telefon +372 58277607
+E-mail rasmus.annuk@rak.ee
